@@ -7,6 +7,7 @@ This project focuses on predicting crude oil prices using Artificial Neural Netw
 Features:
 
 ✔ Data preprocessing (handling missing values, normalization)
+
 ✔ ANN and LSTM implementation using TensorFlow/Keras
 ✔ Performance evaluation using MAE, RMSE
 ✔ Comparison of ANN vs. LSTM in capturing long-term dependencies
