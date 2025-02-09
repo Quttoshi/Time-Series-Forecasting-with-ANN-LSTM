@@ -31,5 +31,6 @@ Usage
 jupyter notebook time-series-forecasting-with-ann-lstm.ipynb
 
 Results
+
 ANN provides basic pattern recognition but struggles with sequential dependencies.
 LSTM outperforms ANN by retaining long-term dependencies, making it more suitable for time series forecasting.
