@@ -5,12 +5,14 @@ Overview
 This project focuses on predicting crude oil prices using Artificial Neural Networks (ANN) and Long Short-Term Memory (LSTM) models. It demonstrates the effectiveness of deep learning in time series forecasting by comparing ANN and LSTM architectures.
 
 Features
+
 ✔ Data preprocessing (handling missing values, normalization)
 ✔ ANN and LSTM implementation using TensorFlow/Keras
 ✔ Performance evaluation using MAE, RMSE
 ✔ Comparison of ANN vs. LSTM in capturing long-term dependencies
 
 Technologies Used
+
 Python
 TensorFlow / Keras
 NumPy, Pandas, Matplotlib
@@ -25,6 +27,7 @@ cd your-repo
 pip install -r requirements.txt
 
 Usage
+
 jupyter notebook time-series-forecasting-with-ann-lstm.ipynb
 
 Results
