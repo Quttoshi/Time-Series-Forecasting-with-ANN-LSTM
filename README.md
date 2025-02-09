@@ -1,6 +1,7 @@
 Time Series Forecasting with ANN & LSTM
 
 Overview
+
 This project focuses on predicting crude oil prices using Artificial Neural Networks (ANN) and Long Short-Term Memory (LSTM) models. It demonstrates the effectiveness of deep learning in time series forecasting by comparing ANN and LSTM architectures.
 
 Features
